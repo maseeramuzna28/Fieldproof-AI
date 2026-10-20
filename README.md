@@ -46,7 +46,7 @@ Connect and validate a plant-disease image model, evaluate it on representative 
 
 ## 🚀 Live Demo
 
-🔗 **[Try FieldProof AI](https://maseeramuzna28.github.io/FieldProof-AI/)**
+🔗 **[Try FieldProof AI]( https://maseeramuzna28.github.io/Fieldproof-AI/)**
 
 ## 🌱 About the Prototype
 
