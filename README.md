@@ -41,3 +41,39 @@ For a more consistent local server, run `python -m http.server 8000` from this f
 ## Next implementation step
 
 Connect and validate a plant-disease image model, evaluate it on representative crop images, and expose its confidence/uncertainty to the interface before presenting any model output as AI. Until then, keep results labelled as a prototype workflow.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **[Try FieldProof AI](https://maseeramuzna28.github.io/FieldProof-AI/)**
+
+## 🌱 About the Prototype
+
+FieldProof AI is a crop screening prototype designed to help small farmers record visible crop symptoms and receive preliminary guidance.
+
+## ✨ Implemented Features
+
+- 📷 Upload and preview crop leaf images.
+- 🌾 Select crop types.
+- 🔍 Record visible symptoms.
+- 📋 Generate a preliminary screening summary.
+- 💡 Receive basic next-step guidance.
+- 📥 Download the screening summary.
+
+## 🛠️ Technology
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages for deployment
+
+## 🚧 Future Development
+
+- Integrate a trained AI model for crop disease detection.
+- Test and validate the model using real crop images.
+- Improve screening accuracy and uncertainty handling.
+
+## ⚠️ Current Limitations
+
+The current prototype uses rule-based logic and does not yet include a trained AI disease detection model. Its results are preliminary guidance, not confirmed disease diagnoses.
